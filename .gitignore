@@ -1,0 +1,17 @@
+DemoSecrets.local.plist
+.env
+.env.*
+!.env.example
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+.build/
+*.ipa
+*.xcarchive
+*.p12
+*.p8
+*.mobileprovision
+*.pem
+*.key
+.DS_Store
